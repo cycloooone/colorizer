@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+*venv*/
+.env
+checkpoints/*.pth
+checkpoints/*.pt
+data/landscapes/*
+!data/landscapes/.gitkeep
+outputs/*
+!outputs/.gitkeep
+.DS_Store
+Thumbs.db
